@@ -28,3 +28,9 @@ python3 arbol_sintactico.py expresiones_arbol.txt
 
 El segundo comando genera, además de la salida en consola, un archivo
 `arbol_N.png` por cada expresión procesada, con el árbol sintáctico dibujado.
+
+## Árboles generados
+
+| ![arbol_1](arbol_1.png) | ![arbol_2](arbol_2.png) |
+|:---:|:---:|
+| ![arbol_3](arbol_3.png) | ![arbol_4](arbol_4.png) |

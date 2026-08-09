@@ -34,3 +34,6 @@ El segundo comando genera, además de la salida en consola, un archivo
 | ![arbol_1](arbol_1.png) | ![arbol_2](arbol_2.png) |
 |:---:|:---:|
 | ![arbol_3](arbol_3.png) | ![arbol_4](arbol_4.png) |
+
+# Link del Video
+https://uvggt-my.sharepoint.com/:f:/g/personal/san231221_uvg_edu_gt/IgCWhBNXNPXIQJfuNAPQThFiAVKt2OLLmZh6wyr_VqMlIr0?e=HI7DOW

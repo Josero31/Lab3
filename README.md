@@ -22,8 +22,8 @@ pip install matplotlib
 Ambos scripts deben estar en la misma carpeta (uno importa al otro).
 
 ```
-python3 shunting_yard.py expresiones_arbol.txt
-python3 arbol_sintactico.py expresiones_arbol.txt
+python shunting_yard.py expresiones_arbol.txt
+python arbol_sintactico.py expresiones_arbol.txt
 ```
 
 El segundo comando genera, además de la salida en consola, un archivo
